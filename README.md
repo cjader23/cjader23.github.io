@@ -1,7 +1,7 @@
 <center><h1>¡Hi! <img src="https://img.icons8.com/emoji/48/000000/smiling-face-with-smiling-eyes.png"/> I'm Jader</h1></center>
 
 <h4><center>
-Soy un apasionado desarrollador web en formación de Colombia.
+I am a passionate web developer in training from Colombia.
 </center>
 </h4>
 
