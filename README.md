@@ -19,4 +19,4 @@ I am also reinforcing my knowledge in
 
 <div align="center"><a href="https://twitter.com/Jader9420"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a><a href="https://www.linkedin.com/in/jader-castro-72261ab6/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a><a href="https://jadercastro.com/"><img src="https://img.icons8.com/color/48/000000/domain--v1.png"/></a></div>
 
-<br><h2 align="center">My goal is to become an excellent web developer and be able to handle the leading Libraries and Frameworks in the market.</h2>
+<br><h2 align="center">My goal is to become an excellent web developer and be able to handle the main Libraries and Frameworks in the market, and of course, share it with you.</h2>
