@@ -1,4 +1,4 @@
-# <center>¡Hi! :tw-1f600: I'm Jader :tw-1f600:</center>
+<center><h1>¡Hi! <img src="https://img.icons8.com/emoji/48/000000/smiling-face-with-smiling-eyes.png"/> I'm Jader</h1></center>
 
 <h4><center>
 Soy un apasionado desarrollador web en formación de Colombia.
